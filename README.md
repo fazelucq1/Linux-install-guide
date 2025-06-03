@@ -188,7 +188,7 @@ Exact steps differ slightly between distros, but the principles are identical:
 3. Click “Install” to begin the copy/install process.  
 4. Wait for completion: depending on your hardware and distro, this can take 5–20 minutes.
 
-> ![Installation Complete](images/04-install-success.png)  
+> ![Installation Complete](images/04-install-success.webp)  
 > *Once finished, you’ll be prompted to reboot.*  
 
 5. **Reboot** without the USB stick inserted (remember to eject it).  
@@ -449,7 +449,7 @@ Enjoy your install and welcome to the Linux world! 🚀
    - Info boxes (ℹ️, 📝, ⚠️) highlight important notes.
 
 2. **Illustrative Images**  
-   - Placeholders like `![Description](images/filename.png)` show where to insert your screenshots for Rufus setup, partitioning, UEFI settings, etc.  
+   - Placeholders like `![Description](images/03-partizionamento.png)` show where to insert your screenshots for Rufus setup, partitioning, UEFI settings, etc.  
 
 3. **List of Most-Used Distros**  
    - The six most popular distros (Ubuntu, Linux Mint, Fedora, Debian, Manjaro, Pop!\_OS) are described with official links, minimum requirements, and key strengths.  
